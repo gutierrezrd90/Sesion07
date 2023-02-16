@@ -1,3 +1,3 @@
-# Bienvenidos a mi repositorio de prueba
+# Welcome to my R test repository
 
-Este es un repositorio de prueba de mi clase de BEDU-Santander.
+This is a test repository for the R course of the BEDU - Santander Data Science Specialization.
