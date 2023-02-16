@@ -1,3 +1,3 @@
-# Bienvenidos a mi repositorio
+# Bienvenidos a mi repositorio de prueba
 
-Este es un repositorio de mi clase de BEDU
+Este es un repositorio de prueba de mi clase de BEDU-Santander.
